@@ -1,0 +1,2 @@
+# Borrar_Politicas_Chome
+borrar_politicas_chome
